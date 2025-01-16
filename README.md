@@ -23,3 +23,4 @@ Quatro repositórios referentes as quatros aulas do evento, incluindo projetos d
 - nbformat
 - ipykernel
 - plotly
+- scikit-learn
