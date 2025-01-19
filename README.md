@@ -24,3 +24,4 @@ Quatro repositórios referentes as quatros aulas do evento, incluindo projetos d
 - ipykernel
 - plotly
 - scikit-learn
+- flet
